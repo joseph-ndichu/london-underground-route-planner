@@ -29,8 +29,6 @@ To find the fastest route, the program uses **Dijkstra's algorithm**. It starts 
 | `plot_results.py` | Draws a graph of those times. |
 | `task2b.py` | Finds the fastest route on the **real** London Underground map. |
 | `London Underground data.csv` | The real tube data: stations, connections and minutes. |
-| `timing_results (100-100000).csv` | The saved timing results. |
-| `timing_plot.png` | The saved graph. |
 | `clrsPython/` | The library used for the map and Dijkstra's algorithm (not changed). |
 
 ---
