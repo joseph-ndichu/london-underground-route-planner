@@ -5,8 +5,6 @@ A Python program that finds the **fastest route** between any two London Undergr
 1. The list of stations on the route, in order.
 2. The total journey time in minutes.
 
-This project was made for the COMP1828 coursework (Task 2).
-
 ---
 
 ## The idea in simple words
@@ -121,4 +119,4 @@ Note: `time_measurement.py` can take a long time, because it tests maps up to 10
 
 - **clrsPython**: the code library for the book *Introduction to Algorithms* (4th edition), by Cormen et al.
 - **Stack Overflow**: methods used for making random connected maps, timing, plotting and reading CSV files.
-- **London Underground data**: provided with the coursework.
+- **London Underground data**: journey times in minutes between neighbouring stations.
