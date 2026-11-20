@@ -1,0 +1,7 @@
+# Timing results
+timing_results*.csv
+timing_plots*.png
+
+# Python cache files
+__pycache__/
+*.pyc
