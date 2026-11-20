@@ -7,7 +7,7 @@ A Python program that finds the **fastest route** between any two London Undergr
 
 ---
 
-## The idea in simple words
+## The idea
 
 Think of the tube map as **dots and lines**:
 
